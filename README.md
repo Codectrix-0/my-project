@@ -16,7 +16,6 @@ Fully responsive and beginner-friendly
 HTML – Structure of the clock
     
 CSS – Styling, blinking animation, and visual effects
-
 JavaScript – Logic to update time dynamically
 </p>
 </body>
