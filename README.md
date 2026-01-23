@@ -14,8 +14,10 @@ Stylish gradient background and glowing clock box
 Fully responsive and beginner-friendly
 <h4>Technologies Used</h4>
 HTML – Structure of the clock
+
     
 CSS – Styling, blinking animation, and visual effects
+
 JavaScript – Logic to update time dynamically
 </p>
 </body>
